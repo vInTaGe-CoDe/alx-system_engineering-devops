@@ -1,2 +1,2 @@
-#1/bin/bash
-tr Ac Ze
+#!/bin/bash
+tr AC Ze
